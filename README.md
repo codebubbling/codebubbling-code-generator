@@ -1,5 +1,5 @@
 # codebubbling-code-generator
-code-generator 代码生成器 
+code-generator 代码生成器 在线管理  插件 支持枚举 web spring springboot mybatis 
 
 
 # 代码生成器
